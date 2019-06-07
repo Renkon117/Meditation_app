@@ -13,6 +13,5 @@ api.listen(PORT, () => {
 
 api.get("/index.html",(req, res) => {
     console.log("Responding to root route")
-    res.send("Hello world")
 });
 
