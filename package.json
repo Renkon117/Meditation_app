@@ -1,0 +1,23 @@
+{
+  "name": "meditation-app",
+  "version": "1.0.0",
+  "description": "created a meditation app that gives users to take some rest while listening to the relaxing music. The app also has a timer.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renkon117/Meditation_app.git"
+  },
+  "author": "Renkon117",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renkon117/Meditation_app/issues"
+  },
+  "homepage": "https://github.com/Renkon117/Meditation_app#readme"
+}
