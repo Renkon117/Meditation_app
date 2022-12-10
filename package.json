@@ -4,7 +4,7 @@
   "description": "created a meditation app that gives users to take some rest while listening to the relaxing music. The app also has a timer.",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
